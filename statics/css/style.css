@@ -1,0 +1,26 @@
+*{
+    margin:0 auto;
+}
+#button{
+    width:200px;
+    height:30px;
+    text-align:center;
+    background-color:pink;
+    border:solid 6px thistle;
+    font-size:15px;
+    color:black;
+    padding:5px;
+    border-radius:20px;
+    margin:5px;
+}
+#button:hover{
+    background-color:pink;
+    border:solid 6px darkorchid;
+    color:black;
+    box-shadow:5px 5px 10px #888888;
+}
+li{
+    list-style:none;
+    margin:0;
+    padding:0; 
+}
